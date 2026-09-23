@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="module_name">Pixel Watch Battery Drain Fix</string>
+    <string name="module_description">Workaround for Pixel Watch battery drain from repeated companion transport wake-ups on rooted phones. Disables CDM secure transport.</string>
+</resources>

@@ -1,0 +1,8 @@
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+.DS_Store
+DIAGNOSIS-*.md
+release-artifacts/

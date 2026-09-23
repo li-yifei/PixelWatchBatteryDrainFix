@@ -1,0 +1,1 @@
+Workaround for Pixel Watch battery drain from companion transport wake-ups on rooted phones. Disables CDM secure transport; experimental.
